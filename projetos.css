@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap&family=Open+Sans&display=swap');
+
+body {
+    background-color: antiquewhite;
+    margin: 0;
+}
+
+header h1 {
+    font-family: "open sans";
+    font-size: 50px;
+    margin-bottom: -30px;
+    font-weight: bold;
+    color: aqua;
+
+}
+
+header p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin-bottom: -5px;
+    font-weight: bold;
+    color: aqua;
+    border-spacing: 15%;
+
+}
+
+header img {
+    border-radius: 500px;
+    width: 50%;
+
+}
+
+header table {
+    width: 100%;
+    background-image: linear-gradient(blue, black);
+    margin: 0px;
+    padding: 20px;
+    text-align: left;
+    border-spacing: 15px;
+    border-bottom: solid 2px gray;
+}
+
+nav table {
+   
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    word-spacing: 100px;
+    line-height: 50px;
+    font-family: "caveat";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+nav table td a {
+    padding: 50px;
+    text-decoration: none;
+}
+
+/**/
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline-block;
+}
+
+li i {
+    font-size: 14px;
+}
+
+.button:hover {
+    color: gray;
+    background-color: #286090;
+    cursor: pointer;
+}
+
+.button {
+    font-family: Caveat;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 10px 38px;
+    color: white;
+    background-color: antiquewhite;
+}
+
+.button.active {
+    background-color: #2a2b2a;
+}
+
+.button.inative {
+    color: #1e1c1c;
+}
+
+
+
+/**/
+
+.destaque {
+    padding: 10px;
+    background-color: rgb(4, 44, 58);
+    border-radius: 10px;
+    text-decoration: none;
+    color: aqua;
+}
+
+#titulo {
+    font-family: "open sans";
+    font-weight: bold;
+    font-size: 40px;
+
+}
+
+body h3 {
+    font-family: "open sans";
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.p {
+    font-family: "open sans";
+    font-size: 20px;
+    text-align: left;
+}
+
+
+#t1 {
+    margin-left: 10%;
+    margin-right: 10%;
+
+
+}
+
+#t2 {
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 5px;
+    border-spacing: 10px;
+
+
+
+}
+
+#foot {
+    text-align: center;
+    background-color: white;
+    border-top: solid 2px gray;
+    width: 100%;
+
+}
+
+#pf {
+    text-align: center;
+    font-size: 15px;
+}
