@@ -25,7 +25,7 @@ Este é um projeto simples, mas você pode contribuir sugerindo melhorias no des
 
 ## Licença
 
-Este projeto é distribuído sob a [Licença MIT](LICENSE). Isso significa que você pode reproduzir, modificar e distribuir o código, desde que inclua o aviso de licença. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+Este projeto é distribuído sob a [Licença MIT](LICENSE.txt). Isso significa que você pode reproduzir, modificar e distribuir o código, desde que inclua o aviso de licença. Consulte o arquivo [LICENSE](LICENSE.txt) para obter mais detalhes.
 
 ---
 
@@ -53,5 +53,5 @@ This is a simple project, but you can contribute by suggesting improvements in d
 
 ## License
 
-This project is distributed under the [MIT License](LICENSE). This means you can reproduce, modify, and distribute the code as long as you include the license notice. See the [LICENSE](LICENSE) file for more details.
+This project is distributed under the [MIT License](LICENSE.txt). This means you can reproduce, modify, and distribute the code as long as you include the license notice. See the [LICENSE](LICENSE.txt) file for more details.
 
