@@ -53,5 +53,5 @@ This is a simple project, but you can contribute by suggesting improvements in d
 
 ## License
 
-This project is distributed under the [MIT License](LICENSE.txt). This means you can reproduce, modify, and distribute the code as long as you include the license notice. See the [LICENSE](LICENSE.txt) file for more details.
+This project is distributed under the [[MIT License](https://opensource.org/license/mit/)](LICENSE.txt). This means you can reproduce, modify, and distribute the code as long as you include the license notice. See the [LICENSE](LICENSE.txt) file for more details.
 
